@@ -2,7 +2,7 @@ import React from 'react';
 import todoImg from '../public/assets/projects/todo.png';
 import currencyImg from '../public/assets/projects/currencyApp.png'
 import expenseImg from '../public/assets/projects/expense.png'
-import restImg from '../public/assets/projects/rest.png'
+import tourismImg from '../public/assets/projects/tourism.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -35,10 +35,10 @@ const Projects = () => {
 
           />
           <ProjectItem
-            title='Rest Countries Website'
-            backgroundImg={restImg}
-            projectUrl='/rest'
-            tech='Vanilla JS'
+            title='Tourism Service Website'
+            backgroundImg={tourismImg}
+            projectUrl='/tourism'
+            tech='React JS'
 
           />
         </div>
