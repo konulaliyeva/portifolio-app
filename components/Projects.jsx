@@ -1,7 +1,7 @@
 import React from 'react';
 import todoImg from '../public/assets/projects/todo.png';
 import currencyImg from '../public/assets/projects/currencyApp.png'
-import expenseImg from '../public/assets/projects/expense.png'
+import netflixImg from '../public/assets/projects/netflix.png'
 import tourismImg from '../public/assets/projects/tourism.png'
 import ProjectItem from './ProjectItem';
 
@@ -28,9 +28,9 @@ const Projects = () => {
 
           />
           <ProjectItem
-            title='Expense List App'
-            backgroundImg={expenseImg}
-            projectUrl='/expense'
+            title='Netflix React App'
+            backgroundImg={netflixImg}
+            projectUrl='/netflix'
             tech='React JS'
 
           />
