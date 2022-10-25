@@ -36,14 +36,14 @@ const netflix = () => {
             Database API)
           </p>
           <a
-            href="https://github.com/konulaliyeva/website-travel-service"
+            href="https://github.com/konulaliyeva/netflix-react"
             target="_blank"
             rel="noreferrer"
           >
             <button className="px-8 py-2 mt-4 mr-8">Code</button>
           </a>
           <a
-            href="https://website-travel-service.vercel.app/"
+            href="https://netflix-react-web.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
